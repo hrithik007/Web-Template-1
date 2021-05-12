@@ -21,7 +21,7 @@ body{
 }
 /*==========Navbar==========*/
 .navbar{
-    background:#010155;/*!important*/
+    background:#01012e;/*!important*/
     padding: 10px 20px;/*!important*/
     transition: padding 2s ease;
 }
