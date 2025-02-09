@@ -80,13 +80,14 @@ body{
     color: #fff;
     background:#01012e;
 }
-/*=====Header======*/
+/*==========Updated Banner Section==========*/
 .banner{
     height: 100vh;
-    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)),url('./assests/contrcution.png');
+    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)), url('./assests/construction2.png');
     justify-content: center;
     align-items: center;
 }
+
 .heading{
     text-align: center;
     color: #fff;
