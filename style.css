@@ -81,14 +81,16 @@ body{
     background:#01012e;
 }
 /*==========Updated Banner Section==========*/
+/*==========Updated Banner Section==========*/
 .banner{
     height: 100vh;
-    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)), url('./assests/construction2.png');
+    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)), url('./assests/c3.png');
     background-repeat: no-repeat;  /* Prevents repeating */
-    background-size: cover;       /* Ensures the image covers the whole area */
+    background-size: 100% 100%;    /* Stretches the image to fit the entire content */
     justify-content: center;
     align-items: center;
 }
+
 
 
 .heading{
